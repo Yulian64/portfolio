@@ -55,7 +55,7 @@ export const projects = [
       'Programación de reuniones',
       'Gestión de recursos a utilizar en sesiones de acompañamiento',
     ],
-    buttons: [{label: 'Ver código', link: 'https://github.com/CEYDJMA/tecnoreservas-client.git'}]
+    buttons: [{label: 'Ver código', link: 'https://github.com/Yulian64/sistema-agendamiento.git'}]
   },
 
   {
