@@ -63,7 +63,7 @@ export default function Hero() {
             <button
               onClick={() => document.querySelector('#projects')?.scrollIntoView({ behavior: 'smooth' })}
               className="relative px-8 py-3 rounded-full 
-                        bg-linear-to-r from-accent/70 to-[#4DA6FF]/50
+                        bg-linear-to-r from-accent to-[#4DA6FF]
                         text-background font-semibold cursor-pointer
                         shadow-xl shadow-cyan-500/30
                         transition-all duration-300
